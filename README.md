@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Appuzlfa">Appuzlfa</a> to make it public
+Project created by <a href="https://github.com/barroz-LFA/Animegirl">Appuzlfa</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Appuzlfa">Appuzlfa</a> to make it
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Appuzlfa/thangamani">
+  <a href="https://github.com/barroz-LFA/Animegirl">
     <img src="https://img.shields.io/github/repo-size/Appuzlfa/thangamani?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Appuzlfa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Appuzlfa?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Appuzlfa/thangamani?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Appuzlfa/thangamani?color=blue&style=flat-square"></a>
-<a href="https://github.com/Appuzlfa/thangamani/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Appuzlfa/thangamani?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/barro-LFA/followers"><img title="Followers" src="https://img.shields.io/github/followers/barro-LFA?color=blue&style=flat-square"></a>
+<a href="https://github.com/barro-LFA/Animegirl/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/barro-LFA/Animegirl?color=blue&style=flat-square"></a>
+<a href="https://github.com/barro-LFA/Animegirl/network/members"><img title="Forks" src="https://img.shields.io/github/forks/barro-LFA/Animegirl?color=blue&style=flat-square"></a>
+<a href="https://github.com/barro-LFA/Animegirl/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/barro-LF/Animegirl?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Appuzlfa&repo=PublicBot&theme=nightowl)](https://github.com/Appuzlfa/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=barro-LFA&repo=PublicBot&theme=nightowl)](https://github.com/barro-LFA/PublicBot)
   </div>
     
 ## Setup
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Appuzlfa/thangamani)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/barro-LFA/thangamani)
      </div>
 <br>
 <br >
